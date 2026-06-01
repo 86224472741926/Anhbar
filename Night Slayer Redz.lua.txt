@@ -3754,9 +3754,9 @@ local v495 = v466:MakeTab({"Shop", "shoppingCart"})
 local v496 = v466:MakeTab({"Misc", "settings"})
 
 v484:AddDiscordInvite({
-    Name = "Night Slayer | Official Sever",
+    Name = "nyann | sever",
     Description = "Vào Để Nhận Thông Báo Sớm Nhất Nhé",
-    Logo = "rbxassetid://96779554580445",
+    Logo = "rbxassetid://93708476642972",
     Invite = "https://discord.gg/wWHxH6ARU"
 })
 v484:AddParagraph({
