@@ -2317,7 +2317,7 @@ screenGui.Parent = game.CoreGui
 
 -- Criar ImageButton
 local imageButton = Instance.new("ImageButton")
-imageButton.Size = UDim2.new(0, 35, 0, 35)
+imageButton.Size = UDim2.new(0, 60, 0, 60)
 imageButton.Position = UDim2.new(0.15, 0, 0.15, 0)
 imageButton.Image = "rbxassetid://86224472741926"
 imageButton.BackgroundTransparency = 1
@@ -2461,10 +2461,10 @@ local Setting = Library:MakeTab({
     Icon = "rbxassetid://7734053495"
 })
 Status:AddDiscordInvite({
-    Name = "Server Discord Turbo Lite Hub",
+    Name = "Server Discord",
     Description = "join for support and update <3",
-    Logo = "rbxassetid://18919385586",
-    Invite = "https://turbolite.xyz/discord"
+    Logo = "rbxassetid://86224472741926",
+    Invite = "https://nyann.xyz/discord"
 })
 
 Shop:AddSection("Fighting Shop")
